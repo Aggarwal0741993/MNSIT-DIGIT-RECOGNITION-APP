@@ -1,1 +1,2 @@
 # MNSIT-DIGIT-RECOGNITION-APP
+[HUGGINGFACE_LINK](https://huggingface.co/spaces/shubhamg074/MNIST_CANVAS)
